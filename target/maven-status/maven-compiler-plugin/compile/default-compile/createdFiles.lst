@@ -1,0 +1,4 @@
+com/frank/mybatis/plugin/LombokPlugin.class
+com/frank/mybatis/plugin/SwaggertPlugin.class
+com/frank/mybatis/plugin/CommentPlugin.class
+com/frank/mybatis/utils/JsonUtil.class
